@@ -13,10 +13,11 @@
 <br/>  
 
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Frontend  
 <div align="center">  
