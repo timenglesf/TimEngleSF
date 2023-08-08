@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning to harness the full power of Twilio.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: Sometimes I am more strict than my linter
   
 
 <br/>  
