@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [MediAlert*💊](https://github.com/TimEngleSF/medialert)  
   
 
-- 🌱 I’m currently learning to harness the full power of React Router.  
+- 🌱 I’m currently learning to harness the power of Next.js.  
   
 
 - ⚡ Fun fact: Sometimes I am more strict than my linter
