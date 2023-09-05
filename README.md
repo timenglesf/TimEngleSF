@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hey there! I am Tim, a full-stack developer who loves to learn 📚.</div>  
   
 
-- 🔭 I’m currently working on [MediAlert*💊](https://github.com/TimEngleSF/medialert)  
+- 🔭 I’m currently working on [LeetCode Tracker🧑‍💻](https://github.com/TimEngleSF/leetcode-tracker)  
   
 
 - 🌱 I’m currently learning to harness the power of Next.js.  
