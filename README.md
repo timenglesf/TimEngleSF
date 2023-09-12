@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [LeetCode Tracker🧑‍💻](https://github.com/TimEngleSF/leetcode-tracker)  
   
 
-- 🌱 I’m currently learning to harness the power of Next.js.  
+- 🌱 I’m currently reading [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/) 
   
 
-- ⚡ Fun fact: Sometimes I am more strict than my linter
+- ⚡ Fun fact: If I am not making commits I am on a bicycle or playing music.
   
 
 <br/>  
